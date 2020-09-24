@@ -1,0 +1,12 @@
+eltropy@ltropy.org: Permission denied (publickey).
+@ip-10-182-5-233 ~ % cd .ssh/ 
+@ip-10-182-5-233 .ssh %  
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC351gO4+qqRUPv02RyrIqhS8nV8B2Kl97r/YqxjBvrNoeQVv+OjDgItSi//SL1SlXduC8Gr3SdWyi7kDqp1nBBPIcsx/XJPRae2sd/qIrevwJqAZwwWVHO9GOC20npSph83Wr4AlytB8m0ooXXo5SxKFDVkJpr3doA3A74cgRpFUtJjPotpzv1HI4zAYXzfd4Bt9i0HnKjya9mEKPN9ijucJ3EUZ4XF5eIpzE/useE4NvrTU2PFRJPKUoOC4MmR7YgNpbEep14d6cCfES4hDbvc0UgUcwEcFV1hvVPttRuNUC1lkpJ9Xod/WyinjHihUjw33wNicvpM2A6KizKENxP poorna@Poornas-MacBook-Pro.local
+@ip-10-182-5-233 .ssh % cd .@ip-10-182-5-233 ~ % ssh eltropy@ltropy.org
+
+https://coolestguidesontheplanet.com/create-a-ssh-private-and-public-key-in-osx-10-11/
+
+
+
+
+vim .ssh/authorized_keys
